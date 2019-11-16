@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=PX6jD_e51lo
+07:08
+
+npm install -g create-react-native-app
+create-react-native-app ReactNative2
+cd ReactNative2
+npm start
+
+
+
+npm install -g expo-cli
+expo init AwesomeProject
+
+cd AwesomeProject
+npm start # you can also use: expo start
+
+ejecutar ambos comandos en distintos cmd 
+uno genera los archivos del android y el otro genera la simulación
+npm start
+npm android
