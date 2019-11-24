@@ -1,3 +1,4 @@
+https://www.udemy.com/course/introduccion-a-react-native-con-react-navigation-y-axios/learn/lecture/14882118#overview
 https://www.udemy.com/course/introduccion-a-react-native-con-react-navigation-y-axios/learn/lecture/14882058#questions
 https://www.youtube.com/watch?v=PX6jD_e51lo
 07:08
@@ -7,6 +8,24 @@ npm install -g create-react-native-app
 create-react-native-app ReactNative2
 cd ReactNative2
 npm start
+
+---------------------
+7. Carousel
+------------------
+react-native-snap-carousel
+
+------------------
+6. Details
+-----------------
+
+
+--------------------
+5. listas
+------------------------
+https://facebook.github.io/react-native/docs/image
+https://facebook.github.io/react-native/docs/flatlist
+
+
 -----------------------------
 4. usar axios
 -------------------------
